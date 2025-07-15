@@ -24,3 +24,29 @@ a:hover {
   padding: 8px 14px;
   border-radius: 10px;
 }
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  text-align: center;
+}
+
+.main-content {
+  display: flex;
+}
+
+.left-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.center-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.right-box {
+  display: flex;
+  flex-direction: column;
+}
