@@ -1,6 +1,8 @@
 body {
-  background-color: #494a53;
-  color: #e4e4f0;
+  background-image: url('images/bggrid-transp.png');
+  background-repeat: repeat;
+  background-color: #f5f3eb;
+  background-position: top left;
 }
 
 a {
