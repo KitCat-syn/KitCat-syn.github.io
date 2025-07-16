@@ -32,6 +32,6 @@ else if (browser === "an unknown browser" && os === "an unknown OS") {
 }
 
 else {
-    message = `eww, you're using ${browser} and ${os}? You should try Firefox and Linux!`;
+    message = `oh, you're using ${browser} and ${os}? You should try Firefox and Linux instead!`;
 }
 document.getElementById("user-message").textContent = message;
