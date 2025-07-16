@@ -18,6 +18,9 @@ let message = "";
 if (browser === "Firefox" && os === "Linux") {
     message = "Wow Firefox and Linux! You're doing great!";
 }
+else if (os === "IOS" || os === "Android") {
+    message = "Get off your phone and go use a computer";
+}
 else if (browser === "Firefox") {
     message = "Nice job using Firefox! You should try it on Linux :)";
 }
