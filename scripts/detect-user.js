@@ -25,7 +25,7 @@ else if (browser === "Firefox") {
     message = "Nice job using Firefox! You should try it on Linux :)";
 }
 else if (os === "Linux") {
-    message = "Linux is great, but you should try Firefox for a better experience!";
+    message = "Linux is great nice job! You should try Firefox, it's a cool browser";
 }
 else if (browser === "an unknown browser" && os === "an unknown OS") {
     message = "hmm, I can't tell what browser and OS you're using. Look at you all mysterious!";
