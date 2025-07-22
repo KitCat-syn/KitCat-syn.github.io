@@ -1,2 +1,3 @@
 cute y2k website that ill use to keep track of my interests like politics, anime, videogames, music etc :)
 hello
+test
