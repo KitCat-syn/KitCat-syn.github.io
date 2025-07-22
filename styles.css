@@ -50,7 +50,7 @@ a:hover {
   display: flex;
   flex-direction: column;
   background-color: blue;
-  flex-basis: 35vh;
+  flex: 1;
   border-radius: 10px;
 }
 
@@ -59,6 +59,7 @@ a:hover {
   flex-direction: column;
   background-color: green;
   flex-grow: 1;
+  flex: 3;
   border-radius: 10px;
 }
 
@@ -66,7 +67,7 @@ a:hover {
   display: flex;
   flex-direction: column;
   background-color: chocolate;
-  flex-basis: 35vh;
+  flex: 1;
   border-radius: 10px;
 }
 
